@@ -19,6 +19,10 @@ A modern and colorful birthday webpage made with HTML and CSS. It includes a bir
 - `images.jpg` - Default gift cover image
 - `secret.jpg`, `react.jpg`, `genius.jpg`, `giphy.webp` - Images shown when hovering over gifts
 
+<img width="1831" height="883" alt="image" src="https://github.com/user-attachments/assets/1769fe5c-3f6b-42b2-8acb-5e5402803058" />
+<img width="1850" height="862" alt="image" src="https://github.com/user-attachments/assets/061b7d55-b1fd-4e80-bd85-1b0cad360563" />
+
+
 ## How To Use
 
 1. Open the project folder.
